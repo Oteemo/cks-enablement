@@ -1,2 +1,4 @@
-[Introduction to apparmor](https://sysdig.com/blog/manage-apparmor-profiles-in-kubernetes-with-kube-apparmor-manager/)
-[Kubernetes documentation on apparmor](https://kubernetes.io/docs/tutorials/clusters/apparmor/)
+* [Introduction to apparmor](https://sysdig.com/blog/manage-apparmor-profiles-in-kubernetes-with-kube-apparmor-manager/)
+
+
+* [Kubernetes documentation on apparmor](https://kubernetes.io/docs/tutorials/clusters/apparmor/)
